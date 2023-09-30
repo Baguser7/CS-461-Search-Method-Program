@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vhYQih6XeM/Y+tZ8VqQjfLRrU/KnwSrv0rTyKkJWYTwTEZGfaFgq5aXYtYvzSDBIrhsmNoqBwkM5IUGLSqOAiw==",
+  "success": true,
+  "projectFilePath": "H:\\Visual Studio 2022\\WinFormsApp_SM\\WinFormsApp_SM\\WinFormsApp_SM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bagus\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
