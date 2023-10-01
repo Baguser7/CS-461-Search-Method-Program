@@ -1,11 +1,13 @@
 # CS-461-Search-Method-Program
 Search Method Program for CS 461 Assignment
+
 Bagus Hendrawan
 ------------------------------------------------------
 
 > Summary
 ----------
 ![image](https://github.com/Baguser7/CS-461-Search-Method-Program/assets/125522708/77dfda0b-c952-4832-8a07-b7c0fb2a0d5f)
+
 This program simulates a route-finding with multiple algorithm provided, 
 given a file of adjacency matrix and csv contain cityName,Latitude and Longitude.
 1. Brute-Force (Recursive) Method
@@ -22,7 +24,7 @@ The result of this program :
 4. Total distance (node to node) for the search program
 5. The memory that being used on each method (array scale Sum)
 
-This repository contains the source code of this program and also the exe file build on the release folder.
+This repository contains the source code of this program and also the EXE file build on the (release) folder.
 
 > Technical
 -----------
