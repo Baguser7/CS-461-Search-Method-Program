@@ -1,11 +1,6 @@
 # CS-461-Search-Method-Program
 Search Method Program for CS 461 Assignment
 
-Bagus Hendrawan
-Dr. Jesse Lowe
-COMP-SCI 461 Introduction to Artificial Intelligence
-30 September 2023
-
 > Summary
 ----------
 ![image](https://github.com/Baguser7/CS-461-Search-Method-Program/assets/125522708/77dfda0b-c952-4832-8a07-b7c0fb2a0d5f)
@@ -65,5 +60,3 @@ And lastly, i using the LLM to help me comment the code. and it really help to g
 - C# Your First Windows Forms Application (https://www.youtube.com/watch?v=n5WneLo6vOY)
 - Coding Gem #1.3: Parsing CSV Data as Lists in C# (https://www.youtube.com/watch?v=Oe8M0t4PJR0)
 
-Regards,
-Bagus Hendrawan.
